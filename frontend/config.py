@@ -1,4 +1,4 @@
-API_URL = "http://localhost:8000"
+API_URL = "https://my-backend-api-juat.onrender.com/"
 
 # Shared CSS injected into every portal
 COMMON_CSS = """
